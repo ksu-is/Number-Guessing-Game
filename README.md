@@ -6,10 +6,10 @@ The Number Guessing Game is a Python-based GUI app where players try to guess a 
 
 The goal of the Number Guessing Game is to challenge your mind by guessing the secret number in as few attempts as possible. It’s a fun and addictive way to sharpen your logical thinking and pattern recognition skills—perfect for quick mental workouts or friendly competition. 
 
-#Team Members
+# Team Members
 Blake johnson
 
-#Technology used
+# Technology Used
 Github 
 Python
 Visual codes
